@@ -57,15 +57,26 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|  1200: 12               |  1204: 24                |
+| ----------------------- | ------------------------ |
+|  1201:34                |  1205: 68                |
+| ----------------------- | ------------------------ |
+|  1202: 12               |  1206: 00                |
+| ----------------------- | ------------------------ |
+|  1203: 34               |  1207 C4                 |
+| ----------------------- | ------------------------ |
+
 
 #### Manual Calculations
 
-(Add your calculation here)
+![WhatsApp Image 2025-09-01 at 19 30 02_1af7f419](https://github.com/user-attachments/assets/d9fede91-f7e1-4cd8-a387-c61a19b50ec8)
 
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+
+<img width="635" height="394" alt="Screenshot 2025-09-01 184934" src="https://github.com/user-attachments/assets/724152a3-4d6f-43f9-8c08-931456e28572" />
+
 
 ## 2. SUBTRACTION
 
@@ -90,16 +101,23 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|  1200: 12               |  1204: 00                |
+| ----------------------- | ------------------------ |
+|  1201:34                |  1205: 00                |
+| ----------------------- | ------------------------ |
+|  1202: 12               |  1206: 00                |
+| ----------------------- | ------------------------ |
+|  1203: 34               |  1207 C4                 |
+| ----------------------- | ------------------------ |
 
 #### Manual Calculations
 
-(Add your calculation here)
-
----
-
+![WhatsApp Image 2025-09-01 at 19 30 01_01650c3d](https://github.com/user-attachments/assets/330add11-8c5d-41de-a212-b1f6b822e173)
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+
+<img width="634" height="397" alt="Screenshot 2025-09-01 185104" src="https://github.com/user-attachments/assets/32e5b9f6-1019-4bbe-873f-7bd4f6320939" />
+
 
 ## 3. MULTIPLICATION
 
@@ -139,15 +157,26 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|  1200: 12               |  1204: 44                |
+| ----------------------- | ------------------------ |
+|  1201:34                |  1205: 51                |
+| ----------------------- | ------------------------ |
+|  1202: 12               |  1206: 97                |
+| ----------------------- | ------------------------ |
+|  1203: 34               |  1207: 0A                |
+| ----------------------- | ------------------------ |
 
 #### Manual Calculations
 
-(Add your calculation here)
+![WhatsApp Image 2025-09-01 at 19 30 01_4a0ea776](https://github.com/user-attachments/assets/20626a1a-3fd7-46af-b202-7bdb972e508a)
+
 
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+
+<img width="636" height="397" alt="Screenshot 2025-09-01 185343" src="https://github.com/user-attachments/assets/8486a962-aeb6-4f7c-a6b9-d3a24b0fcac4" />
+
 
 ## 4. DIVISION
 
@@ -184,14 +213,23 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|  1200: 12               |  1204: 01                |
+| ----------------------- | ------------------------ |
+|  1201:34                |  1205: 00                |
+| ----------------------- | ------------------------ |
+|  1202: 12               |  1206: 00                |
+| ----------------------- | ------------------------ |
+|  1203: 34               |  1207: 00                |
+| ----------------------- | ------------------------ |
 
 #### Manual Calculations
 
-(Add your calculation here)
+![WhatsApp Image 2025-09-01 at 19 30 01_eb4bac92](https://github.com/user-attachments/assets/889eba3e-c54c-4082-a2a9-0ac02d71aed6)
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
+
+<img width="637" height="390" alt="Screenshot 2025-09-01 185755" src="https://github.com/user-attachments/assets/26f55f53-3ade-4082-b0c5-8732dcd9a484" />
 
 
 
